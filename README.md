@@ -5,7 +5,7 @@ A blog rest api - with auth -  created with Nodejs, ExpressJS and MongoDB
 Route name | Example
 -----------|----------
 /user/register | `{"username:"jon", "email":"jon@example.com", "password":"12345"}`
-/user/login | `{"email":"jon@example.com", "password":"12345"}` (will return a token, which is needed for creating, updating and delting blogs)
+/user/login | `{"email":"jon@example.com", "password":"12345"}` (will return a token, which is needed for creating, updating and deleting blogs)
 /blogs/create | `{"title:"blog title", "content":"some blog content"}` (when using Postman, in Headers there should be a key "auth-token" with the token as the value)
 
 ### GET
