@@ -1,7 +1,7 @@
 # nodejs-blog-restapi
-## A blog rest api - with auth -  created with Nodejs, ExpressJS and MongoDB
+A blog rest api - with auth -  created with Nodejs, ExpressJS and MongoDB
 
-[Click here](https://github.com/jamwalaman/vuejs-blogsite) to view the frontend for this rest api
+*[Click here](https://github.com/jamwalaman/vuejs-blogsite) to view the frontend for this rest api*
 
 ### POST
 Route name | Example
